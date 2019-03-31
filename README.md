@@ -35,7 +35,7 @@ We will make available a document listing partner companies, with their profiles
 
 ### Our curriculum :
 
-[PowerCoders Lausanne - Curriculum]()
+[PowerCoders Lausanne - Curriculum](PC-Agenda-2019.pdf)
 
 This program is quite ambitious but not unrealistic. We have studied the durations of each course and, based on our experience, we are quite confident that we will succeed in passing the content. Our success will depend to a large extent on the motivation of our students. We hope we'll be able to inspire them with our irresistible passion ❤ ❤ ❤ !
 
