@@ -60,11 +60,11 @@ This program is quite ambitious but not unrealistic. We have studied the duratio
 13.	Collaborative Week - Agile Scrum, Git for teams, Team projects
 
 
-#### The days will be divided as follows:
+#### Typical weekdays:
 
-Mondays, Tuesday, Thursdays and Fridays:
+Mondays, Tuesday, Thursdays and Fridays :
 - Mornings: **Courses** - *with Sorin Paun, our fullstack developer and experienced teacher*<br>
-- Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers, civilian servants and speakers:*
+- Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers, civilian servants and speakers :*
   * Luca Scuderi *(our brave civilian servant)*
   * Salah Missri
   * Michael Kefeder
