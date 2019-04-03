@@ -14,20 +14,24 @@ We know that wanting to know everything is illusory. So, what skills do you need
 This is a good question and the answer is not simple, everyone has their ideas.
 I often hear *"you must know React is the most used"* or *"JavaScript is a must"* or *"PHP because you can do everything with WordPress"*. Sometimes we hear these mysterious names like "Django", "Jekyll", "Node", "Angular", "React" and so on. It looks like we're always late with the trends, there's always a new thing coming out, we feel marginalized and dusty, so how do we keep up?
 
-#### How to choose the "good" language to learn programming?
-We wanted a user-friendly language for beginners, but not a simplistic language, it had to be "real". It must be popular and still relevant today.
+#### Choosing a good "language" to learn programming
+We wanted a user-friendly programming language for beginners, but not a "simplistic" language, it had to be "real". It must be popular and still relevant today.
 Very importantly, we must be able to use it without installing other software and it must work on all platforms. Which greatly reduces the list...
-Two candidates seem to suit our needs: JavaScript and Python
+Two candidates seem to suit our needs: **JavaScript** and **Python**.
 
-We decided to use JavaScript. This is not the most powerful or flexible language, but it is certainly popular, quite relevant in 2019 and very good for exploring the concepts of programming.
+We decided to use **JavaScript**. This is not the most powerful or flexible language, but it is certainly popular, quite relevant in 2019 and very good for exploring the concepts of programming.
 JavaScript is a C-style language and knowledge of a C-style language makes it easy to switch to other languages of the same family such as Java, PHP, Python, etc.
 
+<br>
 
 ### 2. Find an internship
 
-To do this you have to target a company, to study their profile and prepare a portfolio that is in line with this profile. The job is much simpler and more relevant if you know the needs of the company.
+To do this you have to target a company, to study their profile and prepare a portfolio that is in line with this profile. The job is much simpler and more relevant if you know the needs of a company.
 
-We will make available a document listing partner companies, with their profiles and their needs. These needs are defined by the companies themselves.
+It's not an easy task to impress a company with your skills, they are not easily impressed! But, we'll do our best to resonate with their needs and to offer a good set of programming skills and motivation.
+
+We'll share a document listing partner companies, with their profiles and their needs. These needs are defined by the companies themselves. Our students will study each one of them and choose to apply to a company who match their, let's say it, *ideal* workplace. We think this is a two-way street, both the company and the trainee must be in in complete agreement in order to have a good intership.
+
 
 <br>
 
@@ -58,8 +62,26 @@ This program is quite ambitious but not unrealistic. We have studied the duratio
 
 #### The days will be divided as follows:
 
-Mornings: **Courses** - *with Sorin Paun, fullstack developer and experienced teacher*<br>
-Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers*
+Mondays, Tuesday, Thursdays and Fridays:
+- Mornings: **Courses** - *with Sorin Paun, our fullstack developer and experienced teacher*<br>
+- Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers, civilian servants and speakers:*
+  * Luca Scuderi *(our brave civilian servant)*
+  * Salah Missri
+  * Michael Kefeder
+  * Jessica Ingargiola
+  * Jeremy Gobet
+  * Pierre Kunzli
+  * Susanne Koenig
+  * Hervé Ecoffey
+  * Tim Forman
+  * Julien Godin
+  * Sergio Mendolia
+  * Frank Pachot
+  * Hervé Queyranne
+  * Damien Gauthier
+  * ...
+
+Wednesdays - **Social & Business skills** - *with Coline Sauzet & Magaly Mathys, our Social & Industry Leads*
 
 
 
