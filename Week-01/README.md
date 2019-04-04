@@ -69,7 +69,7 @@ Social & Business skills
     1. Study the support pages inside **[01.intro/html/06.links](https://github.com/powercoders-lausanne/support/tree/master/HTML-CSS/01.intro/html/06.links)**<br>
     2. Create a new page and write 4 relative links and 4 absolute links.
 
-4. **Mockup to HTML 1**<br>
+4. **Mockup to HTML**<br>
     1. Study the support pages inside **[01.intro/html/04.semantic-html](https://github.com/powercoders-lausanne/support/tree/master/HTML-CSS/01.intro/html/04.semantic-html)**<br>
     2. Convert **[THIS MOCKUP](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/html/04.semantic-html/mockup-desktop.png)** into HTML tags.
 
