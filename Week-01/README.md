@@ -47,7 +47,7 @@ Social & Business skills
 
 <br>
 
-## Day 4
+## Day 4-5
 
 ### Course
 1. GitHub - Store credentials
@@ -80,7 +80,7 @@ Social & Business skills
 
 <br>
 
- ### Day 4 ressources
+ ### Day 4-5 ressources
  > [HTML Beginner Tutorial](https://htmldog.com/guides/html/)<br>
    [Intro to the Semantic Web (video)](https://www.youtube.com/watch?v=OGg8A2zfWKg)<br>
    [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)<br>
