@@ -77,3 +77,12 @@ Social & Business skills
  <br>
  
  > *Note for all exercises: you only have to write the HTML TAGS, <span style="color: firebrick;">no CSS</span>!*
+
+<br>
+
+ ### Day 4 ressources
+ > [HTML Beginner Tutorial](https://htmldog.com/guides/html/)<br>
+   [Intro to the Semantic Web (video)](https://www.youtube.com/watch?v=OGg8A2zfWKg)<br>
+   [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)<br>
+   [HTML Markup validation](https://validator.w3.org/#validate_by_input)<br>
+   [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
