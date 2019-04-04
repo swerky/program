@@ -62,7 +62,7 @@ This program is quite ambitious but not unrealistic. We have studied the duratio
 
 #### Typical weekdays:
 
-Mondays, Tuesday, Thursdays and Fridays :
+Mondays, Tuesdays, Thursdays and Fridays :
 - Mornings: **Courses** - *with Sorin Paun, our fullstack developer and experienced teacher*<br>
 - Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers, civilian servants and speakers :*
   * Luca Scuderi *(our brave civilian servant)*
