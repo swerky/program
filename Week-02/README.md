@@ -20,6 +20,42 @@ HTML - CSS
 
     See the "real thing" here: [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive)
 
+
+<br>
+
+ ### Day 1 ressources
+ > [Typespiration](http://typespiration.com/)<br>
+   [Google Fonts](https://fonts.google.com/)<br>
+   [MDN - Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)<br>
+
+<br>
+
+---
+
+<br>
+
+## Day 2
+
+### Course
+1. CSS - Formatting text suite
+2. CSS - Inheritance
+2. CSS - Mesurement units
+3. CSS - The (recommended) structure of your styles
+3. CSS - Box model
+3. CSS - Google Chrome **Dev Tools**
+
+
+### Exercises
+1. **Create a styles file with the recommended structure**<br>
+    *This file will be a model for your future CSS files.*<br>
+    Try using the following order: 
+    1. Reset styles
+    2. Font size of the root element (html tag) styles
+    3. Main tags formatting styles
+    4. Class collection (your common classes)  styles
+    5. Layout common elements (like navigation) styles
+    6. Layout by page elements (like navigation) styles
+
 2. **Text formatting with Google Fonts**<br>
     * Create a new HTML page *"typography.html"*
     * Create a *"style.css"* file
@@ -33,8 +69,13 @@ HTML - CSS
 
 <br>
 
- ### Day 1 ressources
- > [Typespiration](http://typespiration.com/)<br>
-   [Google Fonts](https://fonts.google.com/)<br>
-   [MDN - Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)<br>
+### Day 2 ressources
+ > [CSS Tricks - font-size](https://css-tricks.com/almanac/properties/f/font-size/)<br>
+   [How to Size Text in CSS](https://alistapart.com/article/howtosizetextincss)<br>
+   [Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
+<br>
+
+---
+
+<br>
