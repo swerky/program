@@ -39,10 +39,10 @@ HTML - CSS
 ### Course
 1. CSS - Formatting text suite
 2. CSS - Inheritance
-2. CSS - Mesurement units
-3. CSS - The (recommended) structure of your styles
-3. CSS - Box model
-3. CSS - Google Chrome **Dev Tools**
+3. CSS - Mesurement units
+4. CSS - The (recommended) structure of your styles
+5. CSS - Box model
+6. CSS - Google Chrome **Dev Tools**
 
 
 ### Exercises
@@ -79,3 +79,41 @@ HTML - CSS
 ---
 
 <br>
+
+## Day 3
+Social & Business skills
+
+<br>
+
+---
+
+<br>
+
+## Day 4
+
+### Course
+1. CSS - The "box model"
+2. CSS - The display property
+3. CSS - The width/height properties
+4. CSS - How to make columns (lot of options)
+5. CSS - Flex - the new (cool) kid in town
+6. CSS - Make a (pretty) navigation
+
+
+### Exercises
+1. **Create 3 inline navigation bars**<br>
+    Do your best to make a lookalike menus from those resources: 
+    * [Menu 1](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-1.png)
+    * [Menu 2](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-2.png)
+    * [Menu 3](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-3.png)
+
+2. **Use one of the above navigation bars along with a logo to create a complete header**<br>
+    * Find a logo (or, if you have one, use yours)
+    * Create a header with two elements: logo + navbar
+
+<br>
+
+### Day 4 ressources
+ > [MDN - Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)<br>
+   [MDN - CSS Display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)<br>
+   [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
