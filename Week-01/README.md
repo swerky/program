@@ -20,6 +20,10 @@ None
 
 <br>
 
+---
+
+<br>
+
 
 ## Day 2
 
@@ -41,9 +45,17 @@ None
 
 <br>
 
+---
+
+<br>
+
 
 ## Day 3
 Social & Business skills
+
+<br>
+
+---
 
 <br>
 
