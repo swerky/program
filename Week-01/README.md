@@ -4,6 +4,10 @@ Welcome - Install apps - CLI - GIT - HTML intro
 
 <br>
 
+---
+
+<br>
+
 
 ## Day 1
 
