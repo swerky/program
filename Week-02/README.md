@@ -117,7 +117,8 @@ Social & Business skills
     * For the menu use "Roboto" font
 
 3. **Create a fullscreen menu** (Twenty mobile menu)<br>
-    [Twenty fullscreen menu](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-4.png)
+    [Twenty fullscreen menu](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-4.png)<br>
+    > Find what font is used for this menu and make a Google Font link to this font
 
 4. **Convert this design into html/css :**<br>
     [Twenty 2 columns section](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/html/case-study/templates/section-four-rows-two-columns.png)<br>
