@@ -18,14 +18,13 @@ HTML - CSS
 4. CSS - (Browser) Reset styles
 5. CSS - Formatting text
 
+
 ### Exercises
 1. **Text formatting**<br>
     Training with text formatting techinques with this HTML Page ([support here](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/css/04.css-formating-text/css-text-formatting.html)). Try to "clone" the appeareance of the [real page](https://alistapart.com/article/from-url-to-interactive)
 
     See the "real thing" here: [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive)
 
-
-<br>
 
  ### Day 1 ressources
  > [Typespiration](http://typespiration.com/)<br>
@@ -71,7 +70,6 @@ HTML - CSS
     * Use the "sans-serif" font for titles and "serif" font for paragraphs
     * Make this text as readeable as possible using the techniques you saw in class 
 
-<br>
 
 ### Day 2 ressources
  > [CSS Tricks - font-size](https://css-tricks.com/almanac/properties/f/font-size/)<br>
@@ -104,7 +102,7 @@ Social & Business skills
 6. CSS - Make a (pretty) navigation
 
 
-### Exercises
+### Exercises (continue on day 5 if too much)
 1. **Create 3 inline navigation bars**<br>
     Do your best to make a lookalike menus from those resources: 
     * [Menu 1](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-1.png)
@@ -127,10 +125,38 @@ Social & Business skills
     > [support/HTML-CSS/Twenty/site-END/assets/images](https://github.com/powercoders-lausanne/support/tree/master/HTML-CSS/Twenty/site-END/assets/images)
 
 
-<br>
-
 ### Day 4 ressources
  > [MDN - Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)<br>
    [MDN - CSS Display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)<br>
    [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
    [Twenty Template](https://stupoare.github.io/twenty/)
+
+<br>
+
+---
+
+<br>
+
+## Day 5
+
+### Course
+1. CSS - More Flex
+2. CSS - Position
+3. CSS - "Effects" *(box-shadow, text-shadow, border-radius, transitions)*
+4. CSS - Pseudo-classes and Pseudo-elements
+
+
+### Exercises
+1. **Create a fullscreen menu with a close link**<br>
+2. **Create a fixed header with a logo and a navigation**<br>
+3. **Play with transitions**<br>
+    Examples :<br>
+    * Use transition to change colors and/or opacity of menu links
+    * Use transition to change the position of an element on hover
+    * Look at bellow ressource "Hover.css" and try to replicate 2-3 transition effects
+4. **Play with pseudo-classes and pseudo-elements**<br>
+
+### Day 5 ressources
+ > [Positioning in CSS](http://cssreference.io/positioning/)<br>
+   [CSS Generator](https://cssgenerator.org/)<br>
+   [Hover.css](http://ianlunn.github.io/Hover/)<br>
