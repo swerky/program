@@ -132,4 +132,5 @@ Social & Business skills
 ### Day 4 ressources
  > [MDN - Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)<br>
    [MDN - CSS Display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)<br>
-   [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+   [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+   [Twenty Template](https://stupoare.github.io/twenty/)
