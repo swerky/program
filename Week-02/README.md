@@ -111,9 +111,20 @@ Social & Business skills
     * [Menu 2](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-2.png)
     * [Menu 3](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-3.png)
 
-2. **Use one of the above navigation bars along with a logo to create a complete header**<br>
+2. **Create a complete header - use one of the above inline navigation bars along with a logo**<br>
     * Find a logo (or, if you have one, use yours)
     * Create a header with two elements: logo + navbar
+    * For the menu use "Roboto" font
+
+3. **Create a fullscreen menu** (Twenty mobile menu)<br>
+    [Twenty fullscreen menu](https://github.com/powercoders-lausanne/support/blob/master/_assets/menu-example-4.png)
+
+4. **Convert this design into html/css :**<br>
+    [Twenty 2 columns section](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/html/case-study/templates/section-four-rows-two-columns.png)<br>
+    Use the CSS techniques you've seen in class (display, borders, flex)<br> 
+    > *Note: you'll find the images in your support repo:*<br>
+    > [support/HTML-CSS/Twenty/site-END/assets/images](https://github.com/powercoders-lausanne/support/tree/master/HTML-CSS/Twenty/site-END/assets/images)
+
 
 <br>
 
