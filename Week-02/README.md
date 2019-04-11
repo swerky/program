@@ -155,6 +155,10 @@ Social & Business skills
     * Use transition to change the position of an element on hover
     * Look at bellow ressource "Hover.css" and try to replicate 2-3 transition effects
 4. **Play with pseudo-classes and pseudo-elements**<br>
+    Examples :<br>
+    * Use pseudo-elements to create custom bullets in a html list
+    * Show a pseudo-element on hover
+    * Put a custom small line bellow a title (as seen in class)
 
 ### Day 5 ressources
  > [Positioning in CSS](http://cssreference.io/positioning/)<br>
