@@ -18,12 +18,12 @@ HTML - CSS
 4. CSS - Transitions and Animations
 
 ### Exercises
-1. **Create a custom font-icons library with icomoon and use them in an html page**<br>
+1. **Create a custom font-icons library for your project with icomoon**<br>
     Repeat the steps you've seen in class:<br>
     * Choose your icons
     * Define a CSS prefix to use
     * Download the files prepared by icomoon
-    * Create an html page "my-font-icons.html", import the font-icon styles and use at least 3 icons in your html page as you've seen in class
+    * Import the font-icon styles in your pages and use them calling the icon class
 2. **Play with pseudo-classes and pseudo-elements**<br>
     Examples :<br>
     * Use pseudo-elements to create custom bullets in a html list
