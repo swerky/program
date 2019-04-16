@@ -60,8 +60,8 @@ HTML - CSS
 4. Favicons
 5. Working with media
     * SVG
-    * Images
-    * Videos
+    * Images *(an intro to images types)*
+    * ~~Videos~~
 
 ### Exercises
 1. **Play with SVG files**<br>
@@ -72,13 +72,13 @@ HTML - CSS
         * Use it as "xml" code (copy/paste the SVG code directly into your html code)
         * Use it as a background image
 
-2. **Play with images**<br>
-    * Get some images from [UNSPLASH](https://unsplash.com/) website
-    * Create breakpoints images with [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/) website
-    * Rename your files according with your preference
-    * Link them inside an html file using two methods
-        * `<picture>` and `<source>` tags *(art direction method)*
-        * `<img>` tag with `srcset` and `sizes` attributes
+2. **~~Play with images~~**<br>
+    > * Get some images from [UNSPLASH](https://unsplash.com/) website
+    > * Create breakpoints images with [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/) website
+    > * Rename your files according with your preference
+    > * Link them inside an html file using two methods :<br>
+        `<picture>` and `<source>` tags *(art direction method)*<br>
+        `<img>` tag with `srcset` and `sizes` attributes
         
 3. **Create a favicon for your project**<br>
     Follow the steps → [HERE](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/07.svg%2Bicons-perso%2Bfavicons/favicons/read-me.txt) ← to create a multi-device compatible favicons using [REALFAVICONGENERATOR](https://realfavicongenerator.net/) website.
