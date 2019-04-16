@@ -54,10 +54,11 @@ HTML - CSS
 ## Day 2
 
 ### Course
-1. CSS - How font-icons work ? *(demo only)*
-2. CSS - Transitions and Animations *(demo only)*
-3. Favicons
-4. Working with media
+1. Day 1 review
+2. CSS - How font-icons work ? *(demo only)*
+3. CSS - Transitions and Animations *(demo only)*
+4. Favicons
+5. Working with media
     * SVG
     * Images
     * Videos
