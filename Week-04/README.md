@@ -76,7 +76,7 @@ Social & Business skills
 2. Functions (suite)
 3. Objects
 4. Data types - Booleans
-5. Loops
+5. ~~Loops~~
 6. Todo List workshop
 
 ### Suggested Exercises
@@ -86,7 +86,7 @@ Social & Business skills
     * JS Functions
     * JS Objects
     * JS Conditions
-    * JS Loops
+    * ~~JS Loops~~
 
 OR / AND
 
@@ -101,3 +101,40 @@ OR / AND
    [Bits and pieces - The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)<br>
    [w3schools.com - if/else Statement](https://www.w3schools.com/jsref/jsref_if.asp)<br>
    [MDN - Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)<br>
+
+
+<br>
+
+---
+
+<br>
+
+
+## Day 5
+
+### Course
+1. Day 4 Recap
+2. Booleans
+3. Objects (suite)
+4. Loops
+5. Conditions
+6. Todo List workshop
+
+### Suggested Exercises
+* **W3Schools - JavaScript Exercises:**<br>
+    https://www.w3schools.com/js/exercise_js.asp
+
+    * JS Objects
+    * JS Conditions
+    * JS Loops
+
+OR / AND
+
+* **Free Code Camp - Basic Data Structures:**<br>
+  https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
+
+  All exercises OR as much as possible.
+
+
+### Day 5 ressources
+ > [MDN - Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)<br>
