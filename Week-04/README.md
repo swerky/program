@@ -116,9 +116,10 @@ OR / AND
 1. Day 4 Recap
 2. Booleans
 3. Objects (suite)
-4. Loops
-5. Conditions
-6. Todo List workshop
+4. ~~Loops~~
+5. ~~Conditions~~
+6. ~~Todo List workshop~~
+7. RECAP arrays, functions, objects
 
 ### Suggested Exercises
 * **W3Schools - JavaScript Exercises:**<br>
