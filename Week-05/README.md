@@ -49,7 +49,7 @@ JavaScript
 
 ### Suggested Exercises
 #### Add a toggleAll() method to your todoList object
-All list items have a
+Remember, all list items have a "completed" key who can be true or false.<br>
 When using this method you have to have this behavior :
 1. If **all items** have "completed" key value set to **false** :<br>
    Asign "true" to this key for all items
