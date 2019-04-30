@@ -52,13 +52,13 @@ JavaScript
 Remember, all list items have a "completed" key who can be true or false.<br>
 When using this method you have to have this behavior :
 1. If **all items** have "completed" key value set to **false** :<br>
-   Asign "true" to this key for all items
+   Asign "true" to all
 
 2. If **all items** have "completed" key value set to **true** :<br>
-   Asign "false" to this key for all items
+   Asign "false" to all
 
 3. If **at least one item** have "completed" key value set to **true** :<br>
-   Asign **true** to this key **for all items**
+   Asign **true** to all
 
 > Note: It's not simple to see the solution. Here's are some tips:<br>
 > 1. First, you have to loop into your list and check if you have items set to "true".<br>
