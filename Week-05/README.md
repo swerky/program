@@ -48,7 +48,9 @@ JavaScript
 
 
 ### Suggested Exercises
-#### Add a toggleAll() method to your todoList object
+#### Add a toggleAll() method to your todoList object (todo-app v6)
+For this exercise, create a new folder *"v6-toggleAll"* inside your *"app-versions"* folder.
+
 Remember, all list items have a "completed" key who can be true or false.<br>
 When using this method you have to have this behavior :
 1. If **all items** have "completed" key value set to **false** :<br>
@@ -72,6 +74,61 @@ If *counter == todos.length* (means all items are checked) → all items to "fal
 
 
 
-### Day 1 ressources
+### Day 2 ressources
  > [MDN - Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)<br>
  [w3schools.com - if/else Statement](https://www.w3schools.com/jsref/jsref_if.asp)<br>
+
+
+<br>
+
+---
+
+<br>
+
+## Day 3
+Social & Business skills
+
+
+<br>
+
+---
+
+<br>
+
+## Day 4
+
+### Course
+1. Day 2 Recap
+2. "Thinking code", how **toggleAll()** method works
+3. HTML & the DOM
+4. Todo App workshop - Versions 7 to 8
+
+
+### Suggested Exercises
+* **Make mobile menu work for your website**<br>
+Use your new "DOM" knowledge to add a class *"menu-is-open"* to your `<body>` tag when clicking on a hamburger icon/link
+
+* **Play with the DOM**<br>
+Use your "DOM" knowledge to :
+    * Add HTML elements with JavaScript
+    * Add HTML elements attributes with JavaScript
+    * Add a class to a specific HTML element when clicking a button
+    * When scrolling, detect scroll distance from the top of the window and display the value inside an HTML element
+
+
+### Day 4 ressources / links
+ > [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)<br>
+ 
+ > Get DOM elements<br>
+ [MDN - document.getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)<br>
+ [MDN - document.query​Selector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)<br>
+ [MDN - document.query​SelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)<br>
+
+ > Events<br> 
+ [MDN - Events and the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)<br>
+ [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)<br>
+[MDN - Event​Target​.add​Event​Listener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)<br>
+
+ > Manipulate HTML attributes<br>
+ [MDN - Element​.class​List](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)<br>
+ [MDN - Element​.set​Attribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)<br>
