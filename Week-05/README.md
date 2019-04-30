@@ -116,19 +116,19 @@ Use your "DOM" knowledge to :
     * When scrolling, detect scroll distance from the top of the window and display the value inside an HTML element
 
 
-### Day 4 ressources / links
- > [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)<br>
+### Day 4 references / links
+ > [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
  
  > Get DOM elements<br>
  [MDN - document.getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)<br>
  [MDN - document.query​Selector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)<br>
- [MDN - document.query​SelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)<br>
+ [MDN - document.query​SelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 
  > Events<br> 
  [MDN - Events and the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)<br>
  [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)<br>
-[MDN - Event​Target​.add​Event​Listener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)<br>
+ [MDN - Event​Target​.add​Event​Listener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
  > Manipulate HTML attributes<br>
  [MDN - Element​.class​List](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)<br>
- [MDN - Element​.set​Attribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)<br>
+ [MDN - Element​.set​Attribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
