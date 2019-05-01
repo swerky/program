@@ -54,10 +54,10 @@ For this exercise, create a new folder *"v6-toggleAll"* inside your *"app-versio
 Remember, all list items have a "completed" key who can be true or false.<br>
 When using this method you have to have this behavior :
 1. If **all items** have "completed" key value set to **false** :<br>
-   Asign "true" to all
+   Asign **true** to all
 
 2. If **all items** have "completed" key value set to **true** :<br>
-   Asign "false" to all
+   Asign **false** to all
 
 3. If **at least one item** have "completed" key value set to **true** :<br>
    Asign **true** to all
@@ -71,7 +71,6 @@ If *counter > 0* → all items to "true"<br>
 If *counter == todos.length* (means all items are checked) → all items to "false"
 
 > If you are (completly) stuck, look into "app-versions-curriculum/v6" to see the solution
-
 
 
 ### Day 2 ressources
