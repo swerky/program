@@ -131,3 +131,25 @@ Use your "DOM" knowledge to :
  > Manipulate HTML attributes<br>
  [MDN - Element​.class​List](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)<br>
  [MDN - Element​.set​Attribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
+
+
+ 
+
+<br>
+
+---
+
+<br>
+
+## Day 5
+
+### Course
+1. Day 4 Recap
+2. HTML & the DOM
+3. Todo App workshop - Versions 8 to 9
+
+### Suggested Exercises
+IDEM day 4
+
+### Day 5 references / links
+IDEM day 4
