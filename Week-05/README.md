@@ -149,7 +149,7 @@ Use your "DOM" knowledge to :
 3. Todo App workshop - Versions 8 to 9
 
 ### Suggested Exercises
-IDEM day 4
+Continue to work on day 4 exercises
 
 ### Day 5 references / links
 IDEM day 4
