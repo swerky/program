@@ -15,7 +15,7 @@ JavaScript
 2. Create DOM elements (suite)
 3. Set (DOM elements) attributes with *setAttribute*
 4. Add remove class with *classList*
-3. Foreach loop
+3. forEach() loop
 4. Todo App workshop - Versions 10 to 11
 
 
