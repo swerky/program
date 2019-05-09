@@ -85,15 +85,20 @@ JavaScript
 ## Day 4
 
 ### Course
-...
+1. Day 3 Recap
+2. jQuery suite
+3. How to create a mobile menu
+4. Install and use jQuery Plugins
 
 
 ### Suggested Exercises
-...
+Find a jQuery Plugin for your website, install it, configure it and use it.
 
 
 ### Ressources
-...
+ > [Best jQuery](http://www.bestjquery.com/)<br> 
+  [Unheap - jQuery](http://www.unheap.com/?badge=jquery)<br>
+  [The 50 Most Useful jQuery Plugins](https://speckyboy.com/free-jquery-plugins/)<br>
 
 
  
