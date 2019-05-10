@@ -101,7 +101,6 @@ Find a jQuery Plugin for your website, install it, configure it and use it.
   [The 50 Most Useful jQuery Plugins](https://speckyboy.com/free-jquery-plugins/)<br>
 
 
- 
 
 <br>
 
@@ -112,12 +111,25 @@ Find a jQuery Plugin for your website, install it, configure it and use it.
 ## Day 5
 
 ### Course
-...
+1. Install and use jQuery Plugins (suite)
+2. JavaScript course overview
+3. So now what ?
 
 
 ### Suggested Exercises
-...
+* Make your website mobile menu work
 
+After the JS course
+* jQuery - Find a JQ Plugin for your website, install it, configure it and use it.
+* Vanilla JS - Try to go further with the Todo App following the example in JS/SO-APPS/todo-app
 
-### Ressources
-...
+<br>
+
+---
+
+<br>
+
+## **NOTA BENE**<br>
+#### This concludes our JavaScript course and the introduction to programming.
+
+The best way to test your skills is to work on a/your project.
