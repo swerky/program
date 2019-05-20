@@ -16,8 +16,8 @@ PHP
     - Manage the FTP account
     - Create a user for the Control Panel
 3. Install [SFTP extension](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp) for VS Code
-4. PHP Syntax - Incredible, you know it already !!!
-4. APP v1 & v2
+4. PHP Syntax. It's amazing, you know 90% of it already !
+5. APP v1 & v2
 
 
 ### Suggested Exercises
