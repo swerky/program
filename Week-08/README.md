@@ -17,8 +17,8 @@ PHP
     - Create a user for the Control Panel
 3. Install [SFTP extension](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp) for VS Code
 4. Install FileZilla Client FTP
-5. PHP Syntax. It's amazing, you know 90% of it already !
-6. APP v1 & v2
+5. ~~PHP Syntax. It's amazing, you know 90% of it already !~~
+6. APP v1 & ~~v2~~
 
 
 ### Suggested Exercises
@@ -41,7 +41,10 @@ Try to apply what you learn in class to your project !
 ## Day 2
 
 ### Course
-...
+1. Day 1 review
+2. PHP Syntax. It's amazing, you know 90% of it already !
+3. The "dynamic" thinking
+4. APP v2 to v3
 
 
 ### Suggested Exercises
