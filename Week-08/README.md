@@ -22,7 +22,7 @@ PHP
 
 
 ### Suggested Exercises
-Try to apply what you learn in class to your project!
+Try to apply what you learn in class to your project !
 
 
 ### Ressources
