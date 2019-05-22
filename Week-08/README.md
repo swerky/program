@@ -26,9 +26,9 @@ Try to apply what you learn in class to your project !
 
 
 ### Ressources
- > [What is PHP?](https://www.php.net/manual/en/intro-whatis.php)<br>
-   [What can PHP do?](https://www.php.net/manual/en/intro-whatcando.php)<br>
-   [PHP Section Two - Getting Started With Variables](https://www.homeandlearn.co.uk/php/php.html)
+ >[What is PHP?](https://www.php.net/manual/en/intro-whatis.php)<br>
+  [What can PHP do?](https://www.php.net/manual/en/intro-whatcando.php)<br>
+  [PHP Section Two - Getting Started With Variables](https://www.homeandlearn.co.uk/php/php.html)
    
 
 
@@ -43,8 +43,8 @@ Try to apply what you learn in class to your project !
 ### Course
 1. Day 1 review
 2. PHP Syntax. It's amazing, you know 90% of it already !
-3. The "dynamic" thinking
-4. APP v2 to v3
+3. The "dynamic" thinking - GET values from URL
+4. APP v2 to ~~v3~~
 
 
 ### Suggested Exercises
@@ -74,16 +74,21 @@ Social & Business skills
 ## Day 4
 
 ### Course
-...
+1. Day 2 review
+2. PHP Syntax. You (still) know 90% of it.
+3. The "dynamic" thinking
+4. APP v2 to v3
 
 
 ### Suggested Exercises
-...
+>[Some Practice with PHP Variables](https://www.homeandlearn.co.uk/php/php2p3.html)<br>
+ [Some Practise with PHP If Statements](https://www.homeandlearn.co.uk/php/php3p2.html)<br>
+ [PHP Comparison Operators](https://www.homeandlearn.co.uk/php/php3p5.html)<br>
 
 
 ### Ressources
-...
-
+>[PHP - Getting Started With Variables](https://www.homeandlearn.co.uk/php/php.html)<br>
+ [PHP If Statements](https://www.homeandlearn.co.uk/php/php3p1.html)
 
 
 <br>
