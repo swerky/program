@@ -8,6 +8,7 @@ PHP
 
 <br>
 
+
 ## Day 1
 
 ### Course
@@ -31,12 +32,12 @@ Try to apply what you learn in class to your project !
   [PHP Section Two - Getting Started With Variables](https://www.homeandlearn.co.uk/php/php.html)
    
 
-
 <br>
 
 ---
 
 <br>
+
 
 ## Day 2
 
@@ -44,7 +45,7 @@ Try to apply what you learn in class to your project !
 1. Day 1 review
 2. PHP Syntax. It's amazing, you know 90% of it already !
 3. The "dynamic" thinking - GET values from URL
-4. APP v2 to ~~v3~~
+4. APP v2 ~~to v3~~
 
 
 ### Suggested Exercises
@@ -60,9 +61,9 @@ Try to apply what you learn in class to your project !
 
 <br>
 
+
 ## Day 3
 Social & Business skills
-
 
 
 <br>
@@ -97,15 +98,22 @@ Social & Business skills
 
 <br>
 
+
 ## Day 5
 
 ### Course
-...
+1. Day 4 review
+2. PHP: Arrays, Loops, Native Functions and other animals.
+3. Data Storage
+4. APP v3 → v4
 
 
 ### Suggested Exercises
-...
+>[PHP Arrays](https://www.homeandlearn.co.uk/php/php6p1.html) (chapters 1 → 5)<br>
+ [w3schools](https://www.w3schools.com/php/exercise.asp) (chapters PHP Arrays & PHP Loops)
 
 
 ### Ressources
-...
+>[PHP Arrays](https://www.homeandlearn.co.uk/php/php6p1.html) (chapters 1 → 5)<br>
+ [w3school - PHP Arrays](https://www.w3schools.com/php/php_arrays.asp)<br>
+ [w3school - PHP For Loops](https://www.w3schools.com/php/php_looping_for.asp)<br>
