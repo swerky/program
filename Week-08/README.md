@@ -103,17 +103,17 @@ Social & Business skills
 
 ### Course
 1. Day 4 review
-2. PHP: Arrays, Loops, Native Functions and other animals.
+2. PHP: Arrays, ~~Loops~~, Native Functions and other animals.
 3. Data Storage
 4. APP v3 → v4
 
 
 ### Suggested Exercises
 >[PHP Arrays](https://www.homeandlearn.co.uk/php/php6p1.html) (chapters 1 → 5)<br>
- [w3schools](https://www.w3schools.com/php/exercise.asp) (chapters PHP Arrays & PHP Loops)
+ [w3schools](https://www.w3schools.com/php/exercise.asp) (chapters PHP Arrays & ~~PHP Loops~~)
 
 
 ### Ressources
 >[PHP Arrays](https://www.homeandlearn.co.uk/php/php6p1.html) (chapters 1 → 5)<br>
  [w3school - PHP Arrays](https://www.w3schools.com/php/php_arrays.asp)<br>
- [w3school - PHP For Loops](https://www.w3schools.com/php/php_looping_for.asp)<br>
+ ~~[w3school - PHP For Loops](https://www.w3schools.com/php/php_looping_for.asp)~~
