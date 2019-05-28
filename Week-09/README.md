@@ -14,7 +14,7 @@ PHP / SQL
 ### Course
 1. Week 8 recap
 2. PHP Loops
-6. APP v4 → v5 → v6 start
+3. APP v4 → v5 → v6 start
 
 
 ### Suggested Exercises
@@ -22,8 +22,9 @@ PHP / SQL
 
 
 ### Ressources
->[w3school - PHP For Loops](https://www.w3schools.com/php/php_looping_for.asp)
-   
+>[PHP Loops](https://developer.hyvor.com/tutorials/php/loops)<br>
+[w3school - PHP For Loops](https://www.w3schools.com/php/php_looping_for.asp)
+
 
 <br>
 
@@ -35,15 +36,21 @@ PHP / SQL
 ## Day 2
 
 ### Course
-...
+1. Day 1 recap (include, global keyword)
+2. PHP $GLOBALS
+3. Variable scope
+4. Globals as function attributes
+5. APP v6
 
 
 ### Suggested Exercises
-...
+>Work on your project, apply what you learned in class
 
 
 ### Ressources
-...
+>[PHP Variable Scope](https://developer.hyvor.com/tutorials/php/variable-scope)<br>
+ [PHP Include and Require](https://developer.hyvor.com/tutorials/php/include-require)
+
 
 <br>
 
