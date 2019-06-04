@@ -37,15 +37,18 @@ PHP / SQL
 ## Day 2
 
 ### Course
-...
+1. Day 1 recap
+2. DataBase Queries suite
+3. PDO::FETCH
+4. APP v9
 
 
 ### Suggested Exercises
-...
+Idem Day 1
 
 
 ### Ressources
-...
+Idem Day 1
 
 
 <br>
