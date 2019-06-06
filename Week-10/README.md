@@ -72,11 +72,26 @@ Social & Business skills
 ## Day 4
 
 ### Course
-...
+1. Day 2 recap
+2. DataBase Queries - Exercises
+3. Security tips when displaying data from a database
+4. APP v9 → v10 intro
 
 
-### Suggested Exercises
-...
+### TODO Exercises
+#### If not already done, add DataBase/Queries to your personal project following the "mini-site" example<br>
+* Create a DATABASE containing 2 tables: **pages** and **settings** 
+* Copy the workshop/inclass **php/** folder into your project
+* Adapt the database info (*pdo.php* file)
+* Adapt the queries cases inside the switch statement (*queries.php* file)
+* Adapt the display functions (*functions.php* file) to match your queries and the desired behavior
+
+
+### Ressources
+>[Slide: Introduction to Development](https://www.slideshare.net/mikecrabb/introduction-to-development-for-the-internet/2-Web_10Static_pages_of_hyperlinked)<br>
+ [Slide: Php 101: PDO](https://www.slideshare.net/jeremykendall/php-101-pdo)<br>
+ [Video: Learn SQL Basics in 3 Hours - SQL for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)<br>
+ [Video: Learn PHP: Basic CMS - Introduction (8 steps)](https://www.youtube.com/watch?v=UbsAdx58ch0&list=PLfdtiltiRHWF0O8kS5D_3-nTzsFiPMOfM&index=1)
 
 
 <br>
@@ -93,4 +108,7 @@ Social & Business skills
 
 
 ### Suggested Exercises
-...
+Idem Day 4
+
+### Ressources
+Idem Day 4
