@@ -74,7 +74,7 @@ Social & Business skills
 ### Course
 1. Day 2 recap
 2. DataBase Queries - Exercises
-3. Security tips when displaying data from a database
+3. ~~Security tips when displaying data from a database~~
 4. APP v9 → v10 intro
 
 
@@ -104,7 +104,10 @@ Social & Business skills
 ## Day 5
 
 ### Course
-...
+1. Day 4 recap
+2. Security tips when displaying data from a database
+3. Our mini CMS overview
+4. APP v10 intro - Admin files and functions
 
 
 ### Suggested Exercises
