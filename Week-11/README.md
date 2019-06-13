@@ -30,7 +30,7 @@ National Holiday
 
 
 ### Suggested Exercises
-> Work on dynamic version of your portfolio
+>Work on dynamic version of your portfolio
 
 ### Ressources
 >[PHP Form Handling](https://www.w3schools.com/php/php_forms.asp)<br>
@@ -59,15 +59,23 @@ Social & Business skills
 ## Day 4
 
 ### Course
-...
+1. Day 2 recap
+2. An overview of our finished Mini CMS
+3. PHP Classes crash course
+4. Wordpress - Install and basic setup
 
 
 ### Suggested Exercises
-...
+>Work on dynamic version of your portfolio<br>
+ Install a second, clean version of Wordpress for your project
 
 
 ### Ressources
-...
+>[Beginning OOP in PHP](https://www.slideshare.net/dstockto/beginning-oop-in-php)<br>
+[PHP Object-Oriented Programming Beginner's Guide](https://www.startutorial.com/homes/oo_beginner)<br>
+[PHP OOP Introduction](https://developer.hyvor.com/tutorials/php/oop-intro)<br>
+[Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)<br>
+[WordPress Support](https://wordpress.org/support/)<br>
 
 
 <br>
@@ -80,7 +88,10 @@ Social & Business skills
 ## Day 5
 
 ### Course
-...
+1. Day 4 recap
+2. Wordpress - ***functions.php***
+3. Wordpress - Summer cleanup
+4. Wordpress - Useful plugins to have before starting to add content
 
 
 ### Suggested Exercises
