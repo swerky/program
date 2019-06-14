@@ -62,12 +62,12 @@ Social & Business skills
 1. Day 2 recap
 2. An overview of our finished Mini CMS
 3. PHP Classes crash course
-4. Wordpress - Install and basic setup
+4. ~~Wordpress - Install and basic setup~~
 
 
 ### Suggested Exercises
 >Work on dynamic version of your portfolio<br>
- Install a second, clean version of Wordpress for your project
+ ~~Install a second, clean version of Wordpress for your project~~
 
 
 ### Ressources
@@ -95,7 +95,7 @@ Social & Business skills
 
 
 ### Suggested Exercises
-...
+>Install a second, clean version of Wordpress for your project
 
 ### Ressources
-...
+Idem day 4
