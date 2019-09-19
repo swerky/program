@@ -1,5 +1,5 @@
 # POCO - WEEK 2
-HTML - CSS
+ADVANCED HTML/CSS
 
 
 <br>
@@ -21,7 +21,7 @@ HTML - CSS
 
 ### Exercises
 1. **Text formatting**<br>
-    Training with text formatting techinques with this HTML Page ([support here](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/css/04.css-formating-text/css-text-formatting.html)). Try to "clone" the appeareance of the [real page](https://alistapart.com/article/from-url-to-interactive)
+    Training with text formatting techinques with [this HTML Page](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/css/04.css-formating-text/css-text-formatting.html). Try to "clone" the appeareance of the [real page](https://alistapart.com/article/from-url-to-interactive)
 
     See the "real thing" here: [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive)
 
