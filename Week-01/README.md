@@ -46,7 +46,8 @@ none
     Try all git commands you learn so far  ([support here](https://github.com/powercoders-lausanne/support/tree/master/GITHUB))
 
 3. **TODO: Define your Web project**<br>
-    asdasd
+    Together with James and your afternoon coaches define your web project.<br>
+    The first step is to define the content.
 
 <br>
 
