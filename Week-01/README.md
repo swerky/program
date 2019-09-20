@@ -38,7 +38,7 @@ none
 
 ### Suggested Exercises / TODO
 1. **CLI Commands**<br>
-    Training with basic all CLI commands seen in class ([support here](https://github.com/powercoders-lausanne/support/tree/master/CLI))
+    Training with all basic CLI commands seen in class ([support here](https://github.com/powercoders-lausanne/support/tree/master/CLI))
 
 2. **GitHub Commands**<br>
     Create a new repo on GitHub (if no idea how to name it: "exercises")<br>
@@ -48,6 +48,10 @@ none
 3. **TODO: Define your Web project**<br>
     Together with James and your afternoon coaches define your web project.<br>
     The first step is to define the content.
+
+ ### Day 2 ressources
+ > [support here](https://github.com/powercoders-lausanne/support/tree/master/GITHUB)
+   [Learn Git (interactive/visual tutorial)](https://learngitbranching.js.org/)<br>
 
 <br>
 
@@ -74,21 +78,20 @@ Social & Business skills
 
 
 ### Suggested Exercises
-1. **Markdown training**
+1. **Git basic commands training**
+
+2. **Markdown training**
     - See the basic syntax on [THIS SITE](https://www.markdownguide.org/getting-started)<br>
     - Do your Markdown training with [THIS SITE](https://www.markdowntutorial.com/)
 
-4. **Mockup to HTML**
-    1. Study the support pages inside **[01.intro/html/04.semantic-html](https://github.com/powercoders-lausanne/support/tree/master/HTML-CSS/01.intro/html/04.semantic-html)**<br>
-    2. Convert **[THIS MOCKUP](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/html/04.semantic-html/mockup-desktop.png)** into HTML tags.
+
 
 
  ### Day 4 ressources
- > [HTML Beginner Tutorial](https://htmldog.com/guides/html/)<br>
-   [Intro to the Semantic Web (video)](https://www.youtube.com/watch?v=OGg8A2zfWKg)<br>
-   [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)<br>
-   [HTML Markup validation](https://validator.w3.org/#validate_by_input)<br>
-   [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
+ > [Learn Git (interactive/visual tutorial)](https://learngitbranching.js.org/)<br>
+   [Markdown Guide](https://www.markdownguide.org/getting-started)<br>
+   [Markdown learning/training](https://www.markdowntutorial.com)<br>
+   
 
 <br>
 
