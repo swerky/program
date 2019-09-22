@@ -47,10 +47,10 @@ none
 
 3. **TODO: Define your Web project**<br>
     Together with James and your afternoon coaches define your web project.<br>
-    The first step is to define the content.
+    What to do: define client needs and the content.
 
  ### Day 2 ressources
- > [support here](https://github.com/powercoders-lausanne/support/tree/master/GITHUB)
+ > [PoCo support](https://github.com/powercoders-lausanne/support/tree/master/GITHUB)<br>
    [Learn Git (interactive/visual tutorial)](https://learngitbranching.js.org/)<br>
 
 <br>
@@ -73,24 +73,28 @@ Social & Business skills
 
 ### Course
 1. Recap days 1 and 2
-2. GitHub - Using SSH to store credentials
-3. Markdown - A crash course
+2. More Git
+3. GitHub - Using SSH to store credentials
+4. Markdown - A crash course
 
 
-### Suggested Exercises
+### Suggested Exercises / TODO
 1. **Git basic commands training**
 
 2. **Markdown training**
     - See the basic syntax on [THIS SITE](https://www.markdownguide.org/getting-started)<br>
     - Do your Markdown training with [THIS SITE](https://www.markdowntutorial.com/)
 
+3. **TODO: Define your Web project (suite)**<br>
+    Together with James and your afternoon coaches define your web project.<br>
+    What to do: create an organizational chart for your pages
 
 
 
  ### Day 4 ressources
  > [Learn Git (interactive/visual tutorial)](https://learngitbranching.js.org/)<br>
    [Markdown Guide](https://www.markdownguide.org/getting-started)<br>
-   [Markdown learning/training](https://www.markdowntutorial.com)<br>
+   [Markdown learning/training](https://www.markdowntutorial.com)
    
 
 <br>
@@ -102,6 +106,24 @@ Social & Business skills
 ## Day 5
 
 ### Course
-1. Web design - A Crash course
-2. GitHub - Using SSH to store credentials
-3. Markdown - A crash course
+Web design - A Crash course
+
+### Suggested Exercises / TODO
+1. **Create a Sitemap**<br>
+    Use https://www.gloomaps.com (or similar)
+
+2. **Look for templates** ( and after that, look some more ;-) )
+
+### Day 5 ressources
+Website flow chart (sitemap) creators:
+- [Gloomaps](https://www.gloomaps.com)<br>
+- [Google Drawings](https://docs.google.com/drawings)<br>
+- ...
+
+Web design inspiration:
+- [html5Up](https://html5up.net/)
+- [Webflow](https://webflow.com/free-website-templates)
+- [Templated](https://templated.co/)
+- [Template Monster](https://www.templatemonster.com/free-website-templates/)
+- ...
+
