@@ -125,5 +125,8 @@ Web design inspiration:
 - [Webflow](https://webflow.com/free-website-templates)
 - [Templated](https://templated.co/)
 - [Template Monster](https://www.templatemonster.com/free-website-templates/)
+- [OnePage Love](https://onepagelove.com/)
+- [SiteInspire](https://www.siteinspire.com)
+- [Awwwards](https://www.awwwards.com/websites/)
 - ...
 
