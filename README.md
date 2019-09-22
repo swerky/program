@@ -39,49 +39,35 @@ We'll share a document listing partner companies, with their profiles and their 
 
 ### Our curriculum :
 
-[PowerCoders Lausanne - Curriculum](PC-Agenda-2019.pdf)
+[PowerCoders Lausanne - Curriculum](PoCo-Curriculum-2019-B.pdf)
 
 This program is quite ambitious but not unrealistic. We have studied the durations of each course and, based on our experience, we are quite confident that we will succeed in passing the content. Our success will depend to a large extent on the motivation of our students. We hope we'll be able to inspire them with our irresistible passion ❤ ❤ ❤ !
 
 ### Contents by week :
 
-1.	Setup / CLI / GIT / Intro HTML
-2.	HTML / CSS 1
-3.	HTML / CSS 2
-4.	Programming 101 - JavaScript 1
-5.	Programming 101 - JavaScript 2
-6.	JavaScript Practical Programming - Real world applications
-7.	CAREER WEEK - Company Meeting
-8.	The Server side & PHP
-9.	Data storage - Data Bases
-10.	PHP Practical Programming - Make a dynamic, database driven, web site
-11.	OOP - Object-oriented programming with JavaScript and PHP
-12.	JavaScript Frameworks - Node.js & Vue.js 
+1.	CLI - GitHub - Web design
+2.	HTML5 / CSS - Advanced concepts
+3.	Programming 101 - JavaScript 1
+4.	Programming 101 - JavaScript 2
+5.	Programming 101 - JavaScript 3
+6.	JavaScript Libraries
+7.	Practical Programming - Frontend Libraries & JS Useful snippets + CAREER DAY
+8.	Career Week
+9.	Server Side & PHP
+10.	Data storage - Data Bases
+11.	PHP - CMS (Wordpress)
+12.	PHP - Frameworks (Laravel or more Wordpress)
 13.	Collaborative Week - Agile Scrum, Git for teams, Team projects
 
 
 #### Typical weekdays:
 
 Mondays, Tuesdays, Thursdays and Fridays :
-- Mornings: **Courses** - *with Sorin Paun, our fullstack developer and experienced teacher*<br>
-- Afternoons: **Practice** and **Portfolio work** - *animated by our passionate (and skilled !) volunteers, civilian servants and speakers :*
-  * Luca Scuderi *(our brave civilian servant)*
-  * Salah Missri
-  * Michael Kefeder
-  * Jessica Ingargiola
-  * Jeremy Gobet
-  * Pierre Kunzli
-  * Susanne Koenig
-  * Hervé Ecoffey
-  * Tim Forman
-  * Julien Godin
-  * Sergio Mendolia
-  * Frank Pachot
-  * Hervé Queyranne
-  * Damien Gauthier
-  * ...
+- Mornings: **Courses** - *with Sorin Paun (Teach Lead)*<br>
+- Afternoons: **Practice** and **Portfolio work** - *coaching with James Smith (civilian servant) and our passionate volunteers and speakers*
 
-Wednesdays - **Social & Business skills** - *with Coline Sauzet & Magaly Mathys, our Social & Industry Leads*
+
+Wednesdays - **Social & Business skills** - *with Coline Sauzet (Social Lead) & Magaly Mathys (Industry Lead)*
 
 
 
