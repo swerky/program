@@ -36,6 +36,9 @@ To come
 ### Suggested Exercises
 To come
 
+### Day 2 ressources
+To come
+
 <br>
 
 ---
