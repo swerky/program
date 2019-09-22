@@ -12,18 +12,11 @@ ADVANCED HTML/CSS
 ## Day 1
 
 ### Course
-1. CSS - HTML links and tags
-2. CSS - Syntax
-3. CSS - Cascade - Inheritance - Specificity
-4. CSS - (Browser) Reset styles
-5. CSS - Formatting text
+1. HTML5 - Must know concepts and best practices
+2. HTML5 Semantics - How to use meaningful tags
 
-
-### Exercises
-1. **Text formatting**<br>
-    Training with text formatting techinques with [this HTML Page](https://github.com/powercoders-lausanne/support/blob/master/HTML-CSS/01.intro/css/04.css-formating-text/css-text-formatting.html). Try to "clone" the appeareance of the [real page](https://alistapart.com/article/from-url-to-interactive)
-
-    See the "real thing" here: [From URL to Interactive](https://alistapart.com/article/from-url-to-interactive)
+### Suggested Exercises / TODO
+Create the HTML tags for your template
 
 
  ### Day 1 ressources
